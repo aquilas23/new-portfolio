@@ -48,8 +48,8 @@ export default class About extends Component {
                     <i className="icon-phone3" />
                 </span>
                 <div className="desc">
-                    <h3>NOOBTUBE</h3>
-                    <p>NoobTube is a youtube clone that have nearly all the fonctionalities as youtube. This web application is fully responsive and has an administrator page as well </p>
+                    <h3>WordPress</h3>
+                    <p>Design and implement websites using the WordPress creation tool also responsible for both front-end and back-end development, implementation of themes and plugins.</p>
                 </div>
                 </div>
             </div>
@@ -59,8 +59,8 @@ export default class About extends Component {
                     <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>STG-Job</h3>
-                    <p>STG-JOB is a personal web portal that is a responsive web application that allows developers to take jobs and client to post jobs as well</p>
+                    <h3>Web-design</h3>
+                    <p>Designing and building the interface, navigation and aesthetic of websites for businesses and clients. I Understand user and client needs</p>
                 </div>
                 </div>
             </div>
