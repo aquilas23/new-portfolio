@@ -2,8 +2,11 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "main": "server/index.js",
+  "proxy": "http://localhost:3000",
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "gh-pages": "^2.0.1",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
