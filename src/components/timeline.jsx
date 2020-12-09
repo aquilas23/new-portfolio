@@ -21,7 +21,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>FULL STACK WEB DEVELOPER AT DEVMOUNTAIN <span>Aug 2020 - Nov 2020</span></h2> 
+                        <h2>FULL STACK WEB DEVELOPER AT DEVMOUNTAIN <span> Aug 2020 - Nov 2020</span></h2> 
                       </div>
                     </div>
                   </article>
@@ -32,7 +32,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>PRODUCTION COODINATOR, BOSTON SCIENTIFIC <span>JANUARY 2018 – MAY 2020</span></h2>
+                        <h2>PRODUCTION COODINATOR, BOSTON SCIENTIFIC  <span>JANUARY 2018 – MAY 2020</span></h2>
                         <p>Responsibilities and Duties 
 • Understands and adheres to safety policies and practices.
 • Responsible for quality and adheres to manufacturing process requirements, the Boston Scientific Corporation Quality Policy and the Strategic Quality Process (SQP). 
@@ -58,7 +58,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>FULL STACK WEB DEVELOPER at SHALOM TECH GROUP LLC<span>JUNE 2018 – JANUARY 2020</span></h2>
+                        <h2>FULL STACK WEB DEVELOPER at SHALOM TECH GROUP LLC <span> JUNE 2018 – JANUARY 2020</span></h2>
                         <p>JUNE 2018 – JANUARY 2020
 FULL STACK WEB DEVELOPER, SHALOM TECH GROUP MN
 Front-end Web Developer
